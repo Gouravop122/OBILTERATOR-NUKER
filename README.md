@@ -1,4 +1,5 @@
-![image](https://github.com/ReXx4SuRe/OBILTERATOR_NUKER/assets/161481850/9a2f86bd-f2c9-427b-b8c2-35684e368f80)
+
+![Screenshot (107)](https://github.com/ReXx4SuRe/OBILTERATOR-NUKER/assets/161481850/eec031e2-f428-4f98-a5b8-f57432890fd8)
 
 # OBILTERATOR NUKER
 - A Python Discord Nuker , Made By [ReX](https://discord.gg/coderz).
