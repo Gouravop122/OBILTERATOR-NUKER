@@ -1,0 +1,8 @@
+discord
+httpx==0.23.0
+colorama==0.4.5
+requests
+pystyle
+termcolor
+websocket
+pyfiglet
