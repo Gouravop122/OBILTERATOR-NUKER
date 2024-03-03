@@ -2,8 +2,8 @@
 ![Screenshot (107)](https://github.com/ReXx4SuRe/OBILTERATOR-NUKER/assets/161481850/eec031e2-f428-4f98-a5b8-f57432890fd8)
 
 # OBILTERATOR NUKER
-- A Python Discord Nuker , Made By [ReX](https://discord.gg/coderz).
-BEST NUKER MADE IN PYTHON .GG/CODERZ
+- A Python Discord Nuker , Made By [ReX](https://discord.gg/NTOP).
+BEST NUKER MADE IN PYTHON .GG/NTOP
 
 # SETUP
 - Install All Files In Zip
@@ -17,8 +17,8 @@ BEST NUKER MADE IN PYTHON .GG/CODERZ
 
 # Credits
 - ReX - rex.4sure#0
-- Team - Team CoderZ
-- Link - https://discord.gg/coderz
+- Team - Team NTOP
+- Link - https://discord.gg/ntop
 
 # Fuck Skids 
 - Low Level Iq Kiddos/skids
